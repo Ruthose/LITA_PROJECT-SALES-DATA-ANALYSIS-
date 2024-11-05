@@ -107,3 +107,11 @@ Where OrderDate between '2024-07-01' and '2024-09-30'
 
 
 
+### Visualizations
+[SalesData(Clean)](https://github.com/user-attachments/assets/04d8fa9d-68e8-4778-8178-518d297a69ef)
+![SalesData_Pivot Table1](https://github.com/user-attachments/assets/39615a55-8f90-4dd8-a6bd-ac18268f89d4)
+
+
+
+
+
