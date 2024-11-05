@@ -108,11 +108,5 @@ Where OrderDate between '2024-07-01' and '2024-09-30'
 
 
 ### Visualizations
-[SalesData(Clean)](https://github.com/user-attachments/assets/04d8fa9d-68e8-4778-8178-518d297a69ef)
-[SalesData_Pivot Table1](https://github.com/user-attachments/assets/39615a55-8f90-4dd8-a6bd-ac18268f89d4)
-[SalesData_Pivot Table2](https://github.com/user-attachments/assets/83b4a33a-5034-48fd-82d6-10d9ebe3bcd5)
-[SalesData_PowerBI(Clean)](https://github.com/user-attachments/assets/68ff99e8-6c85-4429-8194-f868ab592d35)
-[Sales's Table](https://github.com/user-attachments/assets/19bc9e50-bd41-4e1c-b02c-469e4a989e5c)
-![SALES VISUALIZATION](https://github.com/user-attachments/assets/66ccb270-ecee-4c9e-940c-9858b1d123e6)
-
+[SalesData(Clean)](https://github.com/user-attachments/assets/f8011e4b-6f82-492d-97e8-138f1c6aa776)
 
