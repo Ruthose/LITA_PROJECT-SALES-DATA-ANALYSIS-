@@ -3,7 +3,7 @@
 ## Project Title: Sales Data Analysis
 
 - [Project Overview](#project-overview)
-- (Tools Used](#tools-used)
+- [Tools Used](#tools-used)
 - [Project Structure](#project-structure)
 - [Excel Files](#excel-files)
 - [SQL Queries](#sql-queries)
