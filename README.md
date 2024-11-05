@@ -1,8 +1,20 @@
-# LITA_PROJECT-SALES-DATA-ANALYSIS-
+# LITA_PROJECT-SALES-DATA-ANALYSIS
+
+## Project Title: Sales Data Analysis
+[Project Overview](#project-overview)
+[Project Structure](#project-structure)
+[Excel Files](#excel-files)
+[SQL Queries](#sql-queries)
+[Power BI Dashboards](#power-bi-dashboard)
+[Data Files](#data-files)
+[Instructions Given](#instructions given)
+[SQL Queries Documentation](#sql-queries-documentation) 
+[Visualizations](#visualizations)
+### Project Overview
 This repository contains data analysis projects using Excel, SQL, and Power BI to extract insight from sales data.
 
 
-### Project Sructure:
+### Project Structure:
 - Excel: Contains Excel files for data exploration and calculation.
 - SQL: Contains SQL queries for data analysis.
 - Power BI: Contains Power BI dashboard files(Data and Visualization).
@@ -21,7 +33,7 @@ This repository contains data analysis projects using Excel, SQL, and Power BI t
 ### Data Files:
 - Sales_data: Sales data used for analysis.
 
-### Instuctions given;
+### Instuctions Given;
 1. Clone the repository.
 2. Load the sales data into your SQL Server environment.
 3. Run SQL queries to extract insights.
