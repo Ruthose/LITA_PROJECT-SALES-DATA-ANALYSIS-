@@ -108,5 +108,7 @@ Where OrderDate between '2024-07-01' and '2024-09-30'
 
 
 ### Visualizations
-[SalesData(Clean)](https://github.com/user-attachments/assets/f8011e4b-6f82-492d-97e8-138f1c6aa776)
+[SalesData(Clean)](https://github.![SalesData_Pivot Table1](https://github.com/user-attachments/assets/0e6742ec-59c2-4b2d-8b32-b3e7f8648c45)
+com/user-attachments/assets/f8011e4b-6f82-492d-97e8-138f1c6aa776)
+
 
