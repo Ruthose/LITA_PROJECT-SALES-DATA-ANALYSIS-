@@ -8,7 +8,7 @@ This repository contains data analysis projects using Excel, SQL, and Power BI t
 - Power BI: Contains Power BI dashboard files(Data and Visualization).
 - Data:Contains sales data(XLSX & CSV) files.
 
-  ### Excel Files:Excel Files:
+### Excel Files:
 - Sales Exploration: Initial data exploration using pivot tables.
 - Sales Metrics: Calculations for average sales per product and total revenue by region.
 
