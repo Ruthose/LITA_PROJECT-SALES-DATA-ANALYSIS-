@@ -20,3 +20,13 @@ This repository contains data analysis projects using Excel, SQL, and Power BI t
 
 ### Data Files:
 - Sales_data: Sales data used for analysis.
+
+### Instuctions given;
+1. Clone the repository.
+2. Load the sales data into your SQL Server environment.
+3. Run SQL queries to extract insights.
+4. Open Excel files to view calculations and pivot tables.
+5. Open Power BI dashboard files to visualize insights.
+
+SQL Queries Documentation:
+
